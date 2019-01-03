@@ -7,25 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F1CF4C5219B017A00E74057 /* HappinessViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F1CF4C4219B017A00E74057 /* HappinessViewController.m */; };
+		3F288F2E21A2E4FE008F37D7 /* nervous.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F288F2921A2E4FD008F37D7 /* nervous.png */; };
+		3F288F2F21A2E4FE008F37D7 /* sad-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F288F2A21A2E4FD008F37D7 /* sad-2.png */; };
+		3F288F3021A2E4FE008F37D7 /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F288F2B21A2E4FD008F37D7 /* sad.png */; };
+		3F288F3121A2E4FE008F37D7 /* happy.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F288F2C21A2E4FD008F37D7 /* happy.png */; };
+		3F288F3221A2E4FE008F37D7 /* surprised.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F288F2D21A2E4FD008F37D7 /* surprised.png */; };
 		3F44DC232196F7E6005E1CB4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC222196F7E6005E1CB4 /* AppDelegate.m */; };
-		3F44DC262196F7E6005E1CB4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC252196F7E6005E1CB4 /* ViewController.m */; };
 		3F44DC292196F7E6005E1CB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F44DC272196F7E6005E1CB4 /* Main.storyboard */; };
 		3F44DC2B2196F7E7005E1CB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F44DC2A2196F7E7005E1CB4 /* Assets.xcassets */; };
 		3F44DC2E2196F7E7005E1CB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F44DC2C2196F7E7005E1CB4 /* LaunchScreen.storyboard */; };
-		3F44DC312196F7E8005E1CB4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC302196F7E8005E1CB4 /* main.m */; };
+		3F44DC3A2196FE5D005E1CB4 /* Unknown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F44DC392196FE5D005E1CB4 /* Unknown.jpg */; };
+		3F44DC3D21970C03005E1CB4 /* DiaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC3C21970C03005E1CB4 /* DiaryViewController.m */; };
+		3F44DC3F21970F71005E1CB4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC3E21970F71005E1CB4 /* main.m */; };
+		3F44DC4221971786005E1CB4 /* WriteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC4121971786005E1CB4 /* WriteViewController.m */; };
+		3F44DC45219717E7005E1CB4 /* StoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F44DC44219717E7005E1CB4 /* StoreViewController.m */; };
+		3F5C362D2197FA6F0006A15E /* BackGroundViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C362C2197FA6F0006A15E /* BackGroundViewController.m */; };
+		3F6B2E1221D0C62A00F4AA16 /* listViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F6B2E1121D0C62A00F4AA16 /* listViewController.m */; };
+		3F76DC3621CF589E00F1AB9B /* TimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F76DC3521CF589E00F1AB9B /* TimeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F1CF4C3219B017A00E74057 /* HappinessViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HappinessViewController.h; sourceTree = "<group>"; };
+		3F1CF4C4219B017A00E74057 /* HappinessViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HappinessViewController.m; sourceTree = "<group>"; };
+		3F288F2921A2E4FD008F37D7 /* nervous.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nervous.png; sourceTree = "<group>"; };
+		3F288F2A21A2E4FD008F37D7 /* sad-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sad-2.png"; sourceTree = "<group>"; };
+		3F288F2B21A2E4FD008F37D7 /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		3F288F2C21A2E4FD008F37D7 /* happy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = happy.png; sourceTree = "<group>"; };
+		3F288F2D21A2E4FD008F37D7 /* surprised.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = surprised.png; sourceTree = "<group>"; };
 		3F44DC1E2196F7E6005E1CB4 /* Diary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Diary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F44DC212196F7E6005E1CB4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3F44DC222196F7E6005E1CB4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3F44DC242196F7E6005E1CB4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3F44DC252196F7E6005E1CB4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3F44DC282196F7E6005E1CB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3F44DC2A2196F7E7005E1CB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F44DC2D2196F7E7005E1CB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F44DC2F2196F7E8005E1CB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F44DC302196F7E8005E1CB4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3F44DC392196FE5D005E1CB4 /* Unknown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Unknown.jpg; sourceTree = "<group>"; };
+		3F44DC3B21970C03005E1CB4 /* DiaryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DiaryViewController.h; sourceTree = "<group>"; };
+		3F44DC3C21970C03005E1CB4 /* DiaryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiaryViewController.m; sourceTree = "<group>"; };
+		3F44DC3E21970F71005E1CB4 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3F44DC4021971786005E1CB4 /* WriteViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WriteViewController.h; sourceTree = "<group>"; };
+		3F44DC4121971786005E1CB4 /* WriteViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WriteViewController.m; sourceTree = "<group>"; };
+		3F44DC43219717E7005E1CB4 /* StoreViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StoreViewController.h; sourceTree = "<group>"; };
+		3F44DC44219717E7005E1CB4 /* StoreViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoreViewController.m; sourceTree = "<group>"; };
+		3F5C362C2197FA6F0006A15E /* BackGroundViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BackGroundViewController.m; sourceTree = "<group>"; };
+		3F5C362E2197FA780006A15E /* BackGroundViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BackGroundViewController.h; sourceTree = "<group>"; };
+		3F6B2E1021D0C62A00F4AA16 /* listViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = listViewController.h; sourceTree = "<group>"; };
+		3F6B2E1121D0C62A00F4AA16 /* listViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = listViewController.m; sourceTree = "<group>"; };
+		3F76DC3421CF589E00F1AB9B /* TimeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TimeViewController.h; sourceTree = "<group>"; };
+		3F76DC3521CF589E00F1AB9B /* TimeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TimeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,10 +69,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F288F2821A2E4C6008F37D7 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				3F288F2C21A2E4FD008F37D7 /* happy.png */,
+				3F288F2921A2E4FD008F37D7 /* nervous.png */,
+				3F288F2A21A2E4FD008F37D7 /* sad-2.png */,
+				3F288F2B21A2E4FD008F37D7 /* sad.png */,
+				3F288F2D21A2E4FD008F37D7 /* surprised.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
 		3F44DC152196F7E6005E1CB4 = {
 			isa = PBXGroup;
 			children = (
-				3F44DC202196F7E6005E1CB4 /* Diary */,
+				3F44DC382196F801005E1CB4 /* Controller */,
+				3F44DC372196F7F5005E1CB4 /* View */,
+				3F44DC202196F7E6005E1CB4 /* Main */,
 				3F44DC1F2196F7E6005E1CB4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,20 +99,49 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3F44DC202196F7E6005E1CB4 /* Diary */ = {
+		3F44DC202196F7E6005E1CB4 /* Main */ = {
 			isa = PBXGroup;
 			children = (
 				3F44DC212196F7E6005E1CB4 /* AppDelegate.h */,
 				3F44DC222196F7E6005E1CB4 /* AppDelegate.m */,
-				3F44DC242196F7E6005E1CB4 /* ViewController.h */,
-				3F44DC252196F7E6005E1CB4 /* ViewController.m */,
-				3F44DC272196F7E6005E1CB4 /* Main.storyboard */,
 				3F44DC2A2196F7E7005E1CB4 /* Assets.xcassets */,
+				3F44DC3E21970F71005E1CB4 /* main.m */,
 				3F44DC2C2196F7E7005E1CB4 /* LaunchScreen.storyboard */,
 				3F44DC2F2196F7E8005E1CB4 /* Info.plist */,
-				3F44DC302196F7E8005E1CB4 /* main.m */,
 			);
+			name = Main;
 			path = Diary;
+			sourceTree = "<group>";
+		};
+		3F44DC372196F7F5005E1CB4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3F288F2821A2E4C6008F37D7 /* image */,
+				3F44DC392196FE5D005E1CB4 /* Unknown.jpg */,
+				3F44DC272196F7E6005E1CB4 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3F44DC382196F801005E1CB4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3F5C362E2197FA780006A15E /* BackGroundViewController.h */,
+				3F5C362C2197FA6F0006A15E /* BackGroundViewController.m */,
+				3F44DC3B21970C03005E1CB4 /* DiaryViewController.h */,
+				3F44DC3C21970C03005E1CB4 /* DiaryViewController.m */,
+				3F44DC4021971786005E1CB4 /* WriteViewController.h */,
+				3F44DC4121971786005E1CB4 /* WriteViewController.m */,
+				3F44DC43219717E7005E1CB4 /* StoreViewController.h */,
+				3F44DC44219717E7005E1CB4 /* StoreViewController.m */,
+				3F1CF4C3219B017A00E74057 /* HappinessViewController.h */,
+				3F1CF4C4219B017A00E74057 /* HappinessViewController.m */,
+				3F76DC3421CF589E00F1AB9B /* TimeViewController.h */,
+				3F76DC3521CF589E00F1AB9B /* TimeViewController.m */,
+				3F6B2E1021D0C62A00F4AA16 /* listViewController.h */,
+				3F6B2E1121D0C62A00F4AA16 /* listViewController.m */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,9 +201,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F288F2E21A2E4FE008F37D7 /* nervous.png in Resources */,
 				3F44DC2E2196F7E7005E1CB4 /* LaunchScreen.storyboard in Resources */,
 				3F44DC2B2196F7E7005E1CB4 /* Assets.xcassets in Resources */,
+				3F288F3221A2E4FE008F37D7 /* surprised.png in Resources */,
+				3F44DC3A2196FE5D005E1CB4 /* Unknown.jpg in Resources */,
 				3F44DC292196F7E6005E1CB4 /* Main.storyboard in Resources */,
+				3F288F2F21A2E4FE008F37D7 /* sad-2.png in Resources */,
+				3F288F3121A2E4FE008F37D7 /* happy.png in Resources */,
+				3F288F3021A2E4FE008F37D7 /* sad.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,9 +220,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F44DC262196F7E6005E1CB4 /* ViewController.m in Sources */,
-				3F44DC312196F7E8005E1CB4 /* main.m in Sources */,
+				3F44DC3D21970C03005E1CB4 /* DiaryViewController.m in Sources */,
+				3F44DC45219717E7005E1CB4 /* StoreViewController.m in Sources */,
+				3F6B2E1221D0C62A00F4AA16 /* listViewController.m in Sources */,
+				3F76DC3621CF589E00F1AB9B /* TimeViewController.m in Sources */,
+				3F5C362D2197FA6F0006A15E /* BackGroundViewController.m in Sources */,
+				3F44DC3F21970F71005E1CB4 /* main.m in Sources */,
 				3F44DC232196F7E6005E1CB4 /* AppDelegate.m in Sources */,
+				3F1CF4C5219B017A00E74057 /* HappinessViewController.m in Sources */,
+				3F44DC4221971786005E1CB4 /* WriteViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,7 +374,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = test1.Diary;
+				PRODUCT_BUNDLE_IDENTIFIER = cse.mo.u201602045;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -305,7 +390,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = test1.Diary;
+				PRODUCT_BUNDLE_IDENTIFIER = cse.mo.u201602045;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

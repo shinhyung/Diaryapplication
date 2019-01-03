@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WriteViewController.h
 //  Diary
 //
 //  Created by ios2018_12 on 2018. 11. 10..
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface WriteViewController : UIViewController
+
 
 
 @end
-
